@@ -3,7 +3,7 @@ The result largely depends on which of the tw patches, the goldfish or the lipst
 
 ## Here are the individual patches used for goldfish and Lipstick classes.
 
-1. Goldfish - ![](path_to_image)
+1. Goldfish - ![](goldfish.png)
 
 2. Lipstick
 
