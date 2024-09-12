@@ -5,6 +5,8 @@ The result largely depends on which of the tw patches, the goldfish or the lipst
 
 1. Goldfish - ![](goldfish.png)
 
-2. Lipstick
+
+
+2. Lipstick - ![](lipstick.png)
 
 ## Merged Patch 
