@@ -11,3 +11,6 @@ The result largely depends on which of the tw patches, the goldfish or the lipst
 
 ## Merged Patch 
 ![](combined_patch.png)
+
+
+## The model predicted the patch to be 'Goldfish' - "Predicted class for adversarial patch: goldfish"
